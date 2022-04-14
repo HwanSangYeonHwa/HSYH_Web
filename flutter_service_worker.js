@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "370856bf20c758db627d56afe5a6d8de",
 "assets/assets/icons/Discord-Logo-White.png": "9f6f9cd156ce35e2d94c0e62e3eff462",
 "assets/assets/icons/lotus.png": "d54b80cda246768001826a26182ff100",
-"assets/assets/images/intro_3.0.png": "089fcca9314b4069d7a40a98f48d3941",
+"assets/assets/images/intro_3.0.png": "e18b756dd8772d46aa687b11edfe3a86",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "edba21c4e5e4f3ea200ce1d53803bc1f",
@@ -27,10 +27,10 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "33a0b62077aca72e2670718548e2782e",
-"/": "33a0b62077aca72e2670718548e2782e",
+"index.html": "eb924c01a8af706a1cb642afca1a2903",
+"/": "eb924c01a8af706a1cb642afca1a2903",
 "lotus.png": "d54b80cda246768001826a26182ff100",
-"main.dart.js": "22676a37928714ab6715376efa885c59",
+"main.dart.js": "4d2a3b91f384b09025634a7c426caefd",
 "manifest.json": "e7a4db0f61182bb38743704d298119de",
 "version.json": "8869c66581d4ee6fbc6e17773700b001"
 };
